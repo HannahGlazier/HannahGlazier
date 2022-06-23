@@ -20,6 +20,6 @@ Skills: JavaScript / React / Ruby / Rails / ActiveRecord / SQL / PostgreSQL / HT
 </a>
 
 ### Projects
-- [Diver](https://github.com/HannahGlazier/diver): A social activity tracker for SCUBA diving! Safely upload and store your dive logs and follow your friend's dive activity as well!
+- [Diver](https://github.com/HannahGlazier/diver): A social activity tracker for SCUBA diving! Safely upload and store your dive logs - including map coordinates and electronic signature. Keep up with your friend's dive activity as well! Maybe find some inspiration for your next dive trip!
 - [Citinerary](https://github.com/opomeroy26/Citinerary): An activity planner app, with filtering, bookmarking options, and customizable activities. 
 - [The Nighttime Routine](https://github.com/HannahGlazier/the-nighttime-routine-frontend/tree/main/nighttime-routine-frontend): A space for skincare lovers to find and share products and plan future purchases with their own wishlist. 
