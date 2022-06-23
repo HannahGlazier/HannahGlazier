@@ -8,6 +8,7 @@ My name is Hannah Glazier. I am a Full Stack Software Engineer who recently made
 - 🛠 I'm looking forward to learning Python and Elixir.
 - 📫 How to reach me: <glazierhannah@gmail.com>
 - 😄 Pronouns: She/Her
+- - 📝 [Resume](https://github.com/HannahGlazier/HannahGlazier/files/8969578/Hannah.Glazier.Technical.Resume.docx)
 
 Skills: JavaScript / React / Ruby / Rails / ActiveRecord / SQL / PostgreSQL / HTML / CSS / Semantic UI / Material UI / Git / Heroku / VC
 
