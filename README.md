@@ -3,7 +3,7 @@
 My name is Hannah Glazier. I am a Full Stack Software Engineer who recently made the transition to tech from the nonprofit world. My background is in international affairs, refugee resettlement, and public benefits. This experience led me to develop a love for navigating and developing complex systems, especially with respect to increasing efficiency and user experience. My path to coding and development was not a direct one, but I quickly fell in love with the unique balance of the technical and the creative and the idea of an industry that encourages constant and continued learning. I am eager to build and learn more.
 
 
-- 🌱 I’m currently learning (Data Structures and Algorithms)[https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/]
+- 🌱 I’m currently learning [Data Structures and Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on any and all projects!
 - 🛠 I'm looking forward to learning Python and Elixir.
 - 📫 How to reach me: <glazierhannah@gmail.com>
