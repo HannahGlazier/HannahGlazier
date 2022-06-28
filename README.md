@@ -5,7 +5,7 @@ My name is Hannah Glazier. I am a Full Stack Software Engineer who recently made
 
 - 🌱 I’m currently learning [Data Structures and Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on any and all projects!
-- 🛠 I'm looking forward to learning Python and Elixir.
+- 🛠 I'm looking forward to learning Python, Elixir, Node.js
 - 📫 How to reach me: <glazierhannah@gmail.com>
 - 😄 Pronouns: She/Her
 - 📝 [Resume](https://github.com/HannahGlazier/HannahGlazier/files/9002777/Hannah.Glazier.Resume.pdf)
